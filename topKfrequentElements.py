@@ -1,3 +1,7 @@
+"""
+Given an integer array nums and an integer k, return the k most frequent elements 
+"""
+
 def topKfrequent(nums: list[int], k: int) -> list[int]:
     
     count = {}
